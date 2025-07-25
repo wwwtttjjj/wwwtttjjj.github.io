@@ -25,7 +25,7 @@ author:
   avatar           : "touxiang.jpeg"
   name             : "Tengjin Weng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "Shenzhen, China"
   employer         : "Shenzhen University"
   uri              : # URL
